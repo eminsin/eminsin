@@ -20,18 +20,18 @@
 <div>
   <!-- erkam -->
    <img src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 43%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 33%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
   <!-- erkam -->
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
-  📍 <strong>Berlin, Germany</strong><br><br>
-  🎓 <strong>Bielefeld University | Data Science, MSc | 2020 - present</strong><br>
-  🧭 fill<br><br>
+  📍 <strong>Berlin, Germany</strong><br>
+  🎓 <strong>Bielefeld University | Data Science, MSc | 2020 - 2025</strong><br>
+  🧭 R | Advanced Statistics, ML &nbsp Python | ML, DL, NLP, AI, Real-World Evaluation<br>
   🎓 <strong>Galatasaray University | Industrial Engineering, MSc | 2017 - 2019</strong><br>
-  🧭 fill<br><br>
-  🎓 <strong>Linnaeus University | Industrial Management, BSc | 2013 - 2014</strong><br>
-  🧭 fill<br><br>
+  🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br>
+  🎓 <strong>Linnaeus University | Industrial Engineering, BSc | 2013 - 2014</strong><br>
+  🧭 International study in Sweden, Växjö<br>
   🎓 <strong>Istanbul University | Industrial Engineering, BSc | 2011 - 2016</strong><br>
-  🧭 fill<br><br>
+  🧭 Deductive Inference, Linear Programming, Optimization<br><br>
   <strong>📌 Research Interests:</strong><br>
   • fill<br>
   • fill<br>
