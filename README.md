@@ -1,5 +1,5 @@
 ### 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erkam-minsin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:feminsin@gmail.com) 
+### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erkam-minsin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:feminsin@gmail.com) 
 
 ---
 
