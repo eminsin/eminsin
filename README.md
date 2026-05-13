@@ -8,7 +8,7 @@
 
 ---
 
-> I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business.
+> “Let the beauty we love be what we do.” - Rumi
 
 
 <h3 align="center">🚀 About Me</h3>
@@ -51,6 +51,7 @@
 <br> 
 
 <!-- TO DO COMMENT: add more details about me later -->
+<!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
 🔭 I’m currently working on ...<br>👯 I’m looking to collaborate on ...<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning ...<br>💬 Ask me about ...<br>⚡ Fun fact ...
 
