@@ -8,9 +8,6 @@
 
 ---
 
-> “Let the beauty we love be what we do.”   - Rumi
-
-
 <h3 align="center">🚀 About Me</h3>
 
 <div>
@@ -26,6 +23,7 @@
 🧭 International study year in Sweden, Växjö<br>
 🎓 <strong>Istanbul University | Industrial Engineering, BSc | 2011 - 2016</strong><br>
 🧭 Deductive Inference, Linear Programming, Optimization<br><br><br>
+
 <strong>📌 Research Interests:</strong><br><br>
 
    
@@ -58,3 +56,4 @@
 </div>
 
 ---
+> “Let the beauty we love be what we do.”
