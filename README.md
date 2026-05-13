@@ -29,9 +29,10 @@
   🎓 <strong>Galatasaray University | Industrial Engineering, MSc | 2017 - 2019</strong><br>
   🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br>
   🎓 <strong>Linnaeus University | Industrial Engineering, BSc | 2013 - 2014</strong><br>
-  🧭 International study in Sweden, Växjö<br>
+  🧭 International study year in Sweden, Växjö<br>
   🎓 <strong>Istanbul University | Industrial Engineering, BSc | 2011 - 2016</strong><br>
-  🧭 Deductive Inference, Linear Programming, Optimization<br><br>
+  🧭 Deductive Inference, Linear Programming, Optimization<br><br><br>
+  I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. <br><br>
   <strong>📌 Research Interests:</strong><br>
   • fill<br>
   • fill<br>
@@ -40,7 +41,6 @@
   fill<br>
   fill<br><br>
    
-  I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business.
 
   🔭 I’m currently working on ...<br>👯 I’m looking to collaborate on ...<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning ...<br>💬 Ask me about ...<br>⚡ Fun fact ...
 
