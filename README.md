@@ -19,7 +19,7 @@
 
 <div>
   <!-- erkam -->
-   <img src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
+   <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
      style="width: 33%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
   <!-- erkam -->
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
