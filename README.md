@@ -3,7 +3,7 @@
 
 ---
 
-### 💻 My Tech Skills
+### 💻 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">🚀 A Little About Me</h3>
+<h3 align="left">🚀 About Me</h3>
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
