@@ -25,17 +25,19 @@
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 30%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 35%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
 🦾 Raised in working-class<br>
 🤺 Fought for my own path<br>
 🆔 Traveled Europe and experienced different teaching approaches<br>
 🏄‍♂️ Lived with and learnt from different people and cultures<br>
+📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
 👯 Can adapt quickly<br>
 🤥 Learnt all the theory<br>
-🚵 Eager to pratice it more now<br>
-📍 Chasing my dreams in <strong>Berlin, Germany</strong><br><br>
+🚵 Eager to pratice it more now><br>
+🔬 Please check in to see how i do it<br>
+
 
 <strong>📌 My Education Journey:</strong><br><br>
 🔆 Bielefeld University<br>
