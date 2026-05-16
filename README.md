@@ -62,6 +62,18 @@ graph LR
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br>
 
+
+![Regression-Models-Methods-and-Applications](https://github.com/user-attachments/assets/e52dc69b-73f7-4451-905e-2fa7e6dd087b)<br>
+
+![An-Introduction-to-Generalized-Linear-Models](https://github.com/user-attachments/assets/878e4477-1f24-4617-9f0a-7eee4f19d9a3)<br>
+
+![The-Elements-of-Statistical-Learning](https://github.com/user-attachments/assets/24a80483-fcc1-4b9c-a234-e7080039b594)<br>
+
+![An-Introduction-to-Statistical-Learning-with-Applications-in-R](https://github.com/user-attachments/assets/c5d003c0-ec36-4f11-9be2-115c7add5a5c)<br>
+
+![Microeconometrics-Methods-and-Applications](https://github.com/user-attachments/assets/3cdebd93-cea3-4b4f-b454-fad32bd808a0)<br>
+
+
 <details>
 <summary><strong>My languages (test)</strong></summary><br>
 
@@ -86,8 +98,9 @@ graph LR
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-</div>  
+</div>
 
+![An-Introduction-to-Generalized-Linear-Models](https://github.com/user-attachments/assets/878e4477-1f24-4617-9f0a-7eee4f19d9a3)<br>
 
 ---
 > “Let the beauty we love be what we do.”
