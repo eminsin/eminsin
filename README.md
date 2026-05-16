@@ -39,14 +39,10 @@
 
 
 <strong>📌 My Education Journey:</strong><br><br>
-🔆 Bielefeld University<br>
-🎓 <strong>Data Science, MSc</strong> | German School of Thought |<br>
-🔆 Galatasaray University<br>
-🎓 <strong>Industrial Engineering, MSc</strong> | French |<br>
-🔆 Linnaeus University<br>
-🎓 <strong>Industrial Engineering, BSc</strong> | Scandinavian |<br>
-🔆 Istanbul University<br>
-🎓 <strong>Industrial Engineering, BSc</strong> | Turkish & American |<br><br>
+🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Data Science, MSc</strong> | German School of Thought |<br>
+🔆 Galatasaray University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Industrial Engineering, MSc</strong> | French |<br>
+🔆 Linnaeus University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Industrial Engineering, BSc</strong> | Scandinavian |<br>
+🔆 Istanbul University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Industrial Engineering, BSc</strong> | Turkish & American |<br><br>
 
 ```mermaid
 graph LR
