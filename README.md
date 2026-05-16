@@ -21,11 +21,11 @@
 
 ---
 
-<h3 align="center">🚀 A little about me:</h3>
+<h3 align="left">🚀 A Little About Me</h3>
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 45%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 23%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
 🦾 Raised in working-class<br>
@@ -33,7 +33,9 @@
 🆔 Traveled Europe and experienced different teaching approaches<br>
 🏄‍♂️ Lived with and learnt from different people and cultures<br>
 👯 Can adapt quickly and 🏌️‍♀️ still eager to learn more<br>
-📍 Chasing more dreams in <strong>Berlin, Germany</strong><br>
+📍 Chasing more dreams in <strong>Berlin, Germany</strong><br><br>
+
+<strong>📌 My Education Journey:</strong><br><br>
 🔆 Bielefeld University<br>
 🎓 <strong>Data Science, MSc</strong> | German School of Thought |<br>
 🔆 Galatasaray University<br>
