@@ -17,7 +17,7 @@
 
 👷 Raised in working-class<br>
 🦾 Fought for my own path<br>
-🆔 Traveled Europe and experienced different teaching approaches quite a bit<br>
+🆔 Traveled Europe and experienced different teaching approaches<br>
 📍 Chasing my dream in <strong>Berlin, Germany</strong><br>
 🔆 Bielefeld University<br>
 🎓 <strong>Data Science, MSc</strong> | German School of Thought |<br>
