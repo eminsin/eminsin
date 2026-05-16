@@ -28,10 +28,12 @@
      style="width: 42%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
-👷 Raised in working-class<br>
-🦾 Fought for my own path<br>
+🦾 Raised in working-class<br>
+🤺 Fought for my own path<br>
 🆔 Traveled Europe and experienced different teaching approaches<br>
 📍 Chasing my dream in <strong>Berlin, Germany</strong><br>
+🏄‍♂️ Lived with and learnt from different people and cultures<br>
+👯 Can adapt quickly and 🏌️‍♀️ still eager to learn more
 🔆 Bielefeld University<br>
 🎓 <strong>Data Science, MSc</strong> | German School of Thought |<br>
 🔆 Galatasaray University<br>
