@@ -4,7 +4,32 @@
 ---
 
 ### 💻 My Tech Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+```mermaid
+graph TD
+    A["<img src='https://www.python.org/static/community_logos/python-logo.svg' width='40'/>"] --> B["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' width='40'/>"];
+    A --> C["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' width='40'/>"];
+    A --> D["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg' width='40'/>"];
+    A --> E["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg' width='40'/>"];
+    A --> F["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg' width='40'/>"];
+    A --> G["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg' width='40'/>"];
+    A --> H["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg' width='40'/>"];
+```
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=Matplotlib&logoColor=black)<br>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -26,7 +51,7 @@
 🔆 Linnaeus University<br>
 🎓 <strong>Industrial Engineering, BSc</strong> | Scandinavian |<br>
 🔆 Istanbul University<br>
-🎓 <strong>Industrial Engineering, BSc</strong> | Turkish & American |<br><br>
+🎓 <strong>Industrial Engineering, BSc</strong> | Turkish & American |<br>
 
 <strong>📌 Research Interests:</strong><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
