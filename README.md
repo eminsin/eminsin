@@ -4,18 +4,6 @@
 ---
 
 ### 💻 My Tech Skills
-
-```mermaid
-graph TD
-    A["<img src='https://www.python.org/static/community_logos/python-logo.svg' width='40'/>"] --> B["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg' width='40'/>"];
-    A --> C["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg' width='40'/>"];
-    A --> D["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg' width='40'/>"];
-    A --> E["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg' width='40'/>"];
-    A --> F["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg' width='40'/>"];
-    A --> G["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg' width='40'/>"];
-    A --> H["<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg' width='40'/>"];
-```
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
@@ -52,6 +40,18 @@ graph TD
 🎓 <strong>Industrial Engineering, BSc</strong> | Scandinavian |<br>
 🔆 Istanbul University<br>
 🎓 <strong>Industrial Engineering, BSc</strong> | Turkish & American |<br>
+
+```mermaid
+graph LR
+    A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
+    B --> C["Linear Programming, Deductive Inference, Optimization"];
+    C --> D["How can i use it for humanity?  -Healthcare"];
+    D --> E["IE, MSc"];
+    E --> F["Bayesian Inference, Stochastic Processes, MDP, HEOR"];
+    F --> G["How can I learn data-driven modeling and decision-making?"];
+    G --> H["Data Science, MSc"];
+    H --> I["Hello! Welcome to GitHub Profile"];
+```
 
 <strong>📌 Research Interests:</strong><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
