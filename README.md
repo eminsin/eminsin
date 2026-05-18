@@ -77,7 +77,7 @@ graph LR
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" />
+<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" /><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235735" src="https://github.com/user-attachments/assets/c5271393-d27b-4e5b-9682-60530f265af2" />
 &nbsp;&nbsp;&nbsp;&nbsp;
