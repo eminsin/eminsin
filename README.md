@@ -32,12 +32,12 @@
 
 🦾 Raised in working-class<br>
 🤺 Fought for my own path<br>
-🆔 Traveled Europe and experienced different teaching approaches<br>
-🏄‍♂️ Lived with and learnt from different people and cultures<br>
+🆔 Traveled Europe and studied different teaching approaches<br>
+🏄‍♂️ Live with and learn from different people and cultures<br>
 📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
 👯 Can adapt quickly<br>
-🤥 Learnt all the theory<br>
-🚵 Practing it all now<br>
+🤥 Learnt enough of the theory<br>
+🚵 Practing and producing it all now<br>
 
 
 <strong>📌 My Education Journey:</strong><br><br>
