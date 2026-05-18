@@ -75,7 +75,10 @@ graph LR
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-The-Elements-of-Statistical-Learning" src="https://github.com/user-attachments/assets/3fdf0b2a-720f-4ead-b551-b5dd4025ba9e" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" /><br>
+<img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" />
+<br>
 
 <details>
 <summary><strong>My languages (test)</strong></summary><br>
