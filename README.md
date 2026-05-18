@@ -50,14 +50,14 @@
 graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
     B --> C["Linear Programming, Deductive Inference, Optimization"];
-    C --> D["In what ways can this be utilized to advance human well‑being?  -Healthcare"];
-    D --> E["IE, MSc"];
-    E --> F["Bayesian Inference, Stochastic Processes, MDP, HEOR"];
-    D --> F;
-    F --> G["How can I cultivate the capabilities required for data‑driven HEOR modeling and medical decision‑making?"];
-    G --> H["Data Science, MSc"];
-    H --> I["Welcome to my GitHub profile"];
-    G --> I;
+    C --> D["In what ways can this be utilized to advance human well‑being?"];
+    D --> E["Healthcare"];
+    D --> F["IE, MSc"];
+    F --> G["Bayesian Inference, Stochastic Processes, MDP, HEOR"];
+    E --> G;
+    G --> H["How can I cultivate the capabilities required for data‑driven HEOR modeling and medical decision‑making?"];
+    H --> I["Data Science, MSc"];
+    H --> J["Welcome to my GitHub profile"];
 ```
 
 <strong>📌 Research Interests:</strong><br><br>
