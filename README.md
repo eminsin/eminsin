@@ -65,16 +65,17 @@ graph LR
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
 <strong>📌 Books:</strong><br><br>
+<img width="100" height="150" alt="Book-cover-Using-R-for-Introductory-Statistics" src="https://github.com/user-attachments/assets/258df537-8b07-42c0-a45c-7b95ffd739f8" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Regression-Models-Methods-and-Applications" src="https://github.com/user-attachments/assets/e8c9e81a-affa-408b-aa18-6332f2109ce2" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-An-Introduction-to-Generalized-Linear-Models" src="https://github.com/user-attachments/assets/f0f7f824-37fd-47fe-8032-8ff07df33963" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Book-cover-The-Elements-of-Statistical-Learning" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" />
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-An-Introduction-to-Statistical-Learning-with-Applications-in-R" src="https://github.com/user-attachments/assets/e9323893-d415-4756-96e5-f06e182dfd2a" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/3fdf0b2a-720f-4ead-b551-b5dd4025ba9e" /><br>
-
+<img width="100" height="150" alt="Book-cover-The-Elements-of-Statistical-Learning" src="https://github.com/user-attachments/assets/3fdf0b2a-720f-4ead-b551-b5dd4025ba9e" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" /><br>
 
 <details>
 <summary><strong>My languages (test)</strong></summary><br>
