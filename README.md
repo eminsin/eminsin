@@ -1,5 +1,5 @@
 ### 🌐 Feel free to contact me:
-### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erkam-minsin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:feminsin@gmail.com) 
+### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
 
 ---
 
@@ -12,14 +12,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=Matplotlib&logoColor=black)<br>
-[![R2](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-<!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) -->
+<!--  -->
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) -->
 ---
 
