@@ -1,5 +1,5 @@
 ### 🌐 Feel free to contact me:
-### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) [![Gmail](https://skillicons.dev/icons?i=gmail)](feminsin@gmail.com)   <!--(https://skillicons.dev)-->
 
 
 
@@ -72,7 +72,7 @@ graph LR
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
 <details>
-<summary><strong>📌 Books:</strong></summarys><br><br>
+<summary><strong>📌 Study Shelf:</strong></summary><br><br>
 <img width="100" height="150" alt="Book-cover-Using-R-for-Introductory-Statistics" src="https://github.com/user-attachments/assets/258df537-8b07-42c0-a45c-7b95ffd739f8" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Regression-Models-Methods-and-Applications" src="https://github.com/user-attachments/assets/e8c9e81a-affa-408b-aa18-6332f2109ce2" />
