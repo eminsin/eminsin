@@ -1,5 +1,5 @@
 ### 🌐 Feel free to contact me:
-### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/)
+### [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) &nbsp;Faik Erkam Minsin, MS
 
 
 
