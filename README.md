@@ -1,7 +1,11 @@
 ### 🌐 Feel free to contact me:
-### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+
+
 
 ---
+
+
 
 ### 💻 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -21,7 +25,10 @@
 
 <!--  -->
 <!--  -->
+
+
 ---
+
 
 <h3 align="left">🚀 About Me</h3>
 
@@ -64,7 +71,8 @@ graph LR
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
-<strong>📌 Books:</strong><br><br>
+<details>
+<summary><strong>📌 Books:</strong></summarys><br><br>
 <img width="100" height="150" alt="Book-cover-Using-R-for-Introductory-Statistics" src="https://github.com/user-attachments/assets/258df537-8b07-42c0-a45c-7b95ffd739f8" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Regression-Models-Methods-and-Applications" src="https://github.com/user-attachments/assets/e8c9e81a-affa-408b-aa18-6332f2109ce2" />
@@ -83,17 +91,8 @@ graph LR
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235710" src="https://github.com/user-attachments/assets/68b11816-332f-4465-b85a-991dbe2da5c4" />
 <br>
+</details>
 
-<details>
-<summary><strong>My languages (test)</strong></summary><br>
-
-
-| . | Language |
-|-----:|-----------:|
-|     1| Python|
-|     2| R    |
-|     3| SQL       |
-</details><br>
 
 <strong>💼 Open to Research Opportunities</strong><br>
 
@@ -110,5 +109,10 @@ graph LR
 
 </div>
 
+
+
 ---
+
+
+
 > “Let the beauty we love be what we do.”
