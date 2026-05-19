@@ -94,27 +94,15 @@ graph LR
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
 
-| Skill | Project |
-|-----:|---------------:|
-|     1|                |
-|     2|                |
-|     3|                |
+| Skill | Project | Technology |
+|-----:|---------------:|-------:|
+|     1|                |  |
+|     2|                |  |
+|     3|                |  |
 
 
 
 <br>
-
-
-
-| Algorithm | Domain | Technology |
-|-----:|---------------:|------:| 
-|     1|                |       |
-|     2|                |       |
-|     3|                |       |
-
-
-
-<br> 
 
 
 
