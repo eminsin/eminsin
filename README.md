@@ -1,5 +1,5 @@
 ### 🌐 Feel free to contact me:
-### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) [![Gmail](https://skillicons.dev/icons?i=gmail)](feminsin@gmail.com)   <!--(https://skillicons.dev)-->
+### Faik Erkam Minsin, MSc  &nbsp;&nbsp;&nbsp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/)
 
 
 
@@ -34,7 +34,7 @@
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 29%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 27%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
 🦾 Raised in working-class<br>
@@ -42,10 +42,8 @@
 🆔 Traveled Europe and studied different teaching approaches<br>
 🏄‍♂️ Live with and learn from different people and cultures<br>
 📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
-👯 Can adapt quickly<br>
-🤥 Learnt enough of the theory<br>
-🚵 Practing and producing it all now<br>
-
+🛵 Invested in theory first<br>
+🏎 Practing it all now<br><br>
 
 <strong>📌 My Education Journey:</strong><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
@@ -67,12 +65,9 @@ graph LR
     H --> J["Welcome to my GitHub profile"];
 ```
 
-<strong>📌 Research Interests:</strong><br><br>
-🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
-🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
-<details>
-<summary><strong>📌 Study Shelf:</strong></summary><br><br>
+
+<strong>📌 Theory Shelf:</strong><br><br>
 <img width="100" height="150" alt="Book-cover-Using-R-for-Introductory-Statistics" src="https://github.com/user-attachments/assets/258df537-8b07-42c0-a45c-7b95ffd739f8" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Regression-Models-Methods-and-Applications" src="https://github.com/user-attachments/assets/e8c9e81a-affa-408b-aa18-6332f2109ce2" />
@@ -85,23 +80,43 @@ graph LR
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" /><br>
+<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235735" src="https://github.com/user-attachments/assets/c5271393-d27b-4e5b-9682-60530f265af2" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235710" src="https://github.com/user-attachments/assets/68b11816-332f-4465-b85a-991dbe2da5c4" />
+<br><br>
+
+
+
+<strong>📌 Production Shelf:</strong><br><br>
+🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
+🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
+
+
+| Skill | Project |
+|-----:|---------------:|
+|     1|                |
+|     2|                |
+|     3|                |
+
+
+
 <br>
-</details>
 
 
-<strong>💼 Open to Research Opportunities</strong><br>
 
-| Rank | THING-TO-RANK |
-|-----:|:---------------:|
-|     1|     `git status` : test         |
-|     2|               |
-|     3|               |
+| Algorithm | Domain | Technology |
+|-----:|---------------:|------:| 
+|     1|                |       |
+|     2|                |       |
+|     3|                |       |
+
+
+
 <br> 
+
+
 
 <!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
