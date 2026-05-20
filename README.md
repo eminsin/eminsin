@@ -30,6 +30,7 @@
 ---
 
 
+
 <h3 align="left">🚀 About Me</h3>
 
 <div>
@@ -43,7 +44,7 @@
 🏄‍♂️ Live with and learn from different people and cultures<br>
 📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
 🛵 Invested in theory first<br>
-🏎 Practing it all now<br><br>
+🏎 Producing it all now<br><br>
 
 <strong>📌 My Education Journey:</strong><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
@@ -54,37 +55,62 @@
 ```mermaid
 graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
-    B --> C["Linear Programming, Deductive Inference, Optimization"];
-    C --> D["In what ways can this be utilized to advance human well‑being?"];
-    D --> E["Healthcare"];
-    D --> F["IE, MSc"];
-    F --> G["Bayesian Inference, Stochastic Processes, MDP, HEOR"];
+    B --> C["Production and Planning, Occupational Health and Safety"];
+    B --> D["Entrepreneurship, Finance and Economics, Project Management, ERP/Systems Engineering"];
+    D --> M["Working Student Experience in Germany"]
+    B --> E["Foundations of Statistics, Business Analytics, Database Management"];
+    B --> F["Operations/Supply Chain Management, Linear Programming, Optimization"];
+    F --> G["In what ways are analytics and optimization utilized to advance human well‑being?"];
     E --> G;
-    G --> H["How can I cultivate the capabilities required for data‑driven HEOR modeling and medical decision‑making?"];
-    H --> I["Data Science, MSc"];
-    H --> J["Welcome to my GitHub profile"];
+    G --> H["IE, MSc"];
+    H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP, HEOR"];
+    I --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
+    J --> K["Data Science, MSc"];
+    K --> L["Welcome to my GitHub profile"];
 ```
 
 
 
-<strong>📌 Theory Shelf:</strong><br><br>
+<strong>📌 Learning Library:</strong><br><br>
+<img width="100" height="150" alt="Book-cover-Introduction-to-Operations-Research" src="https://github.com/user-attachments/assets/be75da48-31d8-4312-b006-00559363f945" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Convex-Optimization" src="https://github.com/user-attachments/assets/e73f537e-31af-4d3c-80ae-a48e491ef931" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Numerical-Optimization" src="https://github.com/user-attachments/assets/1472fdda-2320-47a6-b4ed-74e58db683e4" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Using-R-for-Introductory-Statistics" src="https://github.com/user-attachments/assets/258df537-8b07-42c0-a45c-7b95ffd739f8" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Regression-Models-Methods-and-Applications" src="https://github.com/user-attachments/assets/e8c9e81a-affa-408b-aa18-6332f2109ce2" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-An-Introduction-to-Generalized-Linear-Models" src="https://github.com/user-attachments/assets/f0f7f824-37fd-47fe-8032-8ff07df33963" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Book-cover-An-Introduction-to-Statistical-Learning-with-Applications-in-R" src="https://github.com/user-attachments/assets/e9323893-d415-4756-96e5-f06e182dfd2a" />
+<img width="100" height="150" alt="Book-cover-An-Introduction-to-Statistical-Learning-with-Applications-in-R" src="https://github.com/user-attachments/assets/007c3174-75cd-4bf2-a1fc-7f27a9bb859f" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-The-Elements-of-Statistical-Learning" src="https://github.com/user-attachments/assets/3fdf0b2a-720f-4ead-b551-b5dd4025ba9e" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="100" height="150" alt="Book-cover-Microeconometrics-Methods-and-Applications" src="https://github.com/user-attachments/assets/20cb0ad6-a2c1-420a-b09d-fbb9b6a47898" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235036" src="https://github.com/user-attachments/assets/72c54750-b262-43c8-b2ee-2eea191f9f49" />
+<img width="100" height="150" alt="Book-cover-Discrete-Choice-Methods-with-Simulation" src="https://github.com/user-attachments/assets/647a9691-667f-427e-97b7-840c4cba2dca" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235735" src="https://github.com/user-attachments/assets/c5271393-d27b-4e5b-9682-60530f265af2" />
+<img width="100" height="150" alt="Book-cover-Hidden-Markov-Models-for-Time-Series" src="https://github.com/user-attachments/assets/8a52b4ea-497e-4b7c-87c5-e695cb790592" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="100" height="150" alt="Ekran görüntüsü 2026-05-18 235710" src="https://github.com/user-attachments/assets/68b11816-332f-4465-b85a-991dbe2da5c4" />
+<img width="100" height="150" alt="Book-cover-Probabilistic-Graphical-Models" src="https://github.com/user-attachments/assets/c5271393-d27b-4e5b-9682-60530f265af2" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Bayesian-Reasoning-and-Machine-Learning" src="https://github.com/user-attachments/assets/4ac87c83-a418-436d-98f8-21f96b7ee8a4" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Mining-of-Massive-Datasets" src="https://github.com/user-attachments/assets/a4665fcc-a606-44d5-a28a-8f23f756314f" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Curriculum-Introduction-to-Statistical-Natural-Language-Processing" src="https://github.com/user-attachments/assets/85feceaa-dac9-4bc8-98c3-7725bf5ee411" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Book-cover-Deep-Learning" src="https://github.com/user-attachments/assets/6fb1554f-29b7-4e02-8efe-92214655db52" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Deep-Learning-for-Natural-Language-Processing" src="https://github.com/user-attachments/assets/da489efe-d4e1-49e5-b062-dd559a30deaf" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Curriculum-Advanced-Machine-Learning" src="https://github.com/user-attachments/assets/607d9551-2ae8-4d33-aa4b-db9a092b9c91" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Sources-for-Research-Data-Management" src="https://github.com/user-attachments/assets/f3cc7b69-9b6b-402a-af63-f3c40bdddd0d" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="150" alt="Curriculum-Ethical-Legal-Social-Impacts-Aspects-of-Data-Science" src="https://github.com/user-attachments/assets/9111e408-fda6-4a85-b1bf-f01df187b56d" />
 <br><br>
 
 
