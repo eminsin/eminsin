@@ -69,6 +69,7 @@ graph LR
     O --> N["Health Economics and Outcomes Research"];
     O --> T["2-year researher experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
+    T --> J;
     J --> K["Data Science, MSc"];
     K --> L["Welcome to my GitHub profile"];
     N --> P["My Career Interest: Integrated Evidence for Better Treatment"];
