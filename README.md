@@ -59,13 +59,12 @@ graph LR
     B --> D["Entrepreneurship, Finance and Economics, Project Management, ERP/Systems Engineering"];
     D --> M["4 years-working experince in Germany"];
     M --> R["Identifying Inefficiencies, Mapping Workflows, Optimizing Resource Allocation, Designing Data-Driven Improvements, Process Optimization"]
-    B --> E["Foundations of Statistics, Business Analytics, Database Management"];
-    B --> F["Operations/Supply Chain Management, Linear Programming, Optimization"];
-    F --> G["In what ways can these be utilized to advance human well‑being?"];
-    E --> G;
+    B --> E["Foundations of Statistics, Optimization, Business Analytics, Database Management, Data Mining"];
+    B --> F["Operations/Supply Chain Management, Linear Programming"];
+    E --> G["In what ways can these be utilized to advance human well‑being?"];
     G --> H["IE, MSc"];
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
-    I --> O["Thesis Title: Optimal Timing of Tnsulin Tnitiation for T2D"];
+    I --> O["Thesis Title: Optimal Timing of Insulin Initiation for T2D"];
     O --> N["Health Economics and Outcomes Research"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     J --> K["Data Science, MSc"];
