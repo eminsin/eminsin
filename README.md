@@ -63,10 +63,14 @@ graph LR
     F --> G["In what ways are analytics and optimization utilized to advance human well‑being?"];
     E --> G;
     G --> H["IE, MSc"];
-    H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP, HEOR"];
-    I --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
+    H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
+    I --> N["Health Economics and Outcomes Research"];
+    N --> O["Thesis Title: Optimal timing of insulin initiation for T2D"];
+    N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     J --> K["Data Science, MSc"];
     K --> L["Welcome to my GitHub profile"];
+    N --> P["My Career Interest"];
+    K --> P;
 ```
 
 
