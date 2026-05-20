@@ -57,17 +57,17 @@ graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
     B --> S["Optimization"]
     S --> C["Production and Planning, Occupational Health and Safety"];
+    S --> F["Operations/Supply Chain Management, Linear Programming"];
     S --> D["Entrepreneurship, Finance and Economics, Project Management, Business Analytics, Database Management, ERP/Systems Engineering"];
     D --> M["5-year working student experince in Germany and Turkey in corporate and agile, dynamic start-up environments"];
     M --> R["Identifying Inefficiencies, Mapping Workflows, Optimizing Resource Allocation, Designing Data-Driven Improvements, Process Optimization"]
     S --> E["Probability Theory, Engineering Satistics, Systems Simulation, Data Mining"];
-    S --> F["Operations/Supply Chain Management, Linear Programming"];
     E --> G["In what ways can these be utilized to advance human well‑being?"];
     G --> H["IE, MSc"];
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
     I --> O["Health Economics Modelling, Cost-Effectiveness Analysis: Optimal Timing of Insulin Initiation for T2D"];
     O --> N["Health Economics and Outcomes Research"];
-    O --> T["2-year researher experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
+    O --> T["2-year researching experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     T --> J;
     J --> K["Data Science, MSc"];
