@@ -57,19 +57,20 @@ graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
     B --> C["Production and Planning, Occupational Health and Safety"];
     B --> D["Entrepreneurship, Finance and Economics, Project Management, ERP/Systems Engineering"];
-    D --> M["Working Student Experience in Germany"]
+    D --> M["4 years-working experince in Germany"];
+    M --> R["Identifying Inefficiencies, Mapping Workflows, Optimizing Resource Allocation, Designing Data-Driven Improvements, Process Optimization"]
     B --> E["Foundations of Statistics, Business Analytics, Database Management"];
     B --> F["Operations/Supply Chain Management, Linear Programming, Optimization"];
-    F --> G["In what ways are analytics and optimization utilized to advance human well‑being?"];
+    F --> G["In what ways can these be utilized to advance human well‑being?"];
     E --> G;
     G --> H["IE, MSc"];
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
-    I --> N["Health Economics and Outcomes Research"];
-    N --> O["Thesis Title: Optimal timing of insulin initiation for T2D"];
+    I --> O["Thesis Title: Optimal Timing of Tnsulin Tnitiation for T2D"];
+    O --> N["Health Economics and Outcomes Research"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     J --> K["Data Science, MSc"];
     K --> L["Welcome to my GitHub profile"];
-    N --> P["My Career Interest"];
+    N --> P["My Career Interest: Integrated Evidence for Better Treatment"];
     K --> P;
 ```
 
