@@ -72,6 +72,7 @@ graph LR
     K --> L["Welcome to my GitHub profile"];
     N --> P["My Career Interest: Integrated Evidence for Better Treatment"];
     K --> P;
+    R --> K;
 ```
 
 
