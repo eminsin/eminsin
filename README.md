@@ -61,10 +61,10 @@ graph LR
     B --> S["Optimization"]
     S -..-> C["Production and Planning, Occupational Health and Safety"];
     S -..-> F["Operations/Supply Chain Management, Linear Programming"];
-    S -- Teaser 1 --> D["Entrepreneurship, Finance and Economics, Project Management, Business Analytics, Database Management, ERP/Systems Engineering"];
+    S -- Teaser 1: Business --> D["Entrepreneurship, Finance and Economics, Project Management, Business Analytics, Database Management, ERP/Systems Engineering"];
     D --> M["5-year working student experince in Germany and Turkey in corporate and agile, dynamic start-up environments"];
     M --> R["Identifying Inefficiencies, Mapping Workflows, Optimizing Resource Allocation, Designing Data-Driven Improvements, Process Optimization"]
-    S -- Teaser 2 --> E["Probability Theory, Engineering Satistics, Systems Simulation, Data Mining"];
+    S -- Teaser 2: Academia --> E["Probability Theory, Engineering Satistics, Systems Simulation, Data Mining"];
     E --> G["In what ways can these be utilized to advance human well‑being?"];
     G -- Trailer 1 was released --> H["IE, MSc"];
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
