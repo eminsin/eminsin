@@ -131,9 +131,9 @@ graph LR
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
 
-| Skill | Project | Technology |
-|-----:|---------------:|-------:|
-|     1|                |  |
+| Math Skills | Project | Tech Skills |
+|:-----|:---------------|:-------|
+|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [Data Analysis](https://github.com/eminsin/Portfolio_DataAnalysis)          |  |
 |     2|                |  |
 |     3|                |  |
 
