@@ -62,7 +62,7 @@ graph LR
     S -..-> C["Production and Planning, Occupational Health and Safety"];
     S -..-> F["Operations/Supply Chain Management, Linear Programming"];
     S -- Teaser 1: Business --> D["Entrepreneurship, Finance and Economics, Project Management, Business Analytics, Database Management, ERP/Systems Engineering"];
-    D --> M["5-year working student experince in Germany and Turkey in corporate and agile, dynamic start-up environments"];
+    D --> M["5-year working experince in Germany and Turkey in corporate and agile, dynamic start-up environments"];
     M --> R["Identifying Inefficiencies, Mapping Workflows, Optimizing Resource Allocation, Designing Data-Driven Improvements, Process Optimization"]
     S -- Teaser 2: Academia --> E["Probability Theory, Engineering Satistics, Systems Simulation, Data Mining"];
     E --> G["In what ways can these be utilized to advance human well‑being?"];
@@ -70,7 +70,7 @@ graph LR
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
     I --> O["Health Economics Modelling, Cost-Effectiveness Analysis: Optimal Timing of Insulin Initiation for T2D"];
     O --> N["Health Economics and Outcomes Research"];
-    O --> T["2-year researching experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
+    O --> T["2-year research experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     T --> J;
     J -- Trailer 2 was released --> K["Data Science, MSc"];
@@ -133,8 +133,15 @@ graph LR
 
 | Math Skills | Project | Tech Skills |
 |:-----|:---------------|:-------|
-|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![Data Analysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br> ![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
-|     2|                |  |
+|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![DataAnalysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br>![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
+|     Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance<br>      |     [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations-of-Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)            |            |
+|     3|                |  |
+|     3|                |  |
+|     3|                |  |
+|     3|                |  |
+|     3|                |  |
+|     3|                |  |
+|     3|                |  |
 |     3|                |  |
 
 
@@ -145,7 +152,7 @@ graph LR
 
 <!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on CONSTRUCTING MY GITHUB PROFILE NEW<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 </div>
 
