@@ -133,7 +133,7 @@ graph LR
 
 | Math Skills | Project | Tech Skills |
 |:-----|:---------------|:-------|
-|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [Data Analysis](https://github.com/eminsin/Portfolio_DataAnalysis)          |  |
+|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![Data Analysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br> ![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
 |     2|                |  |
 |     3|                |  |
 
