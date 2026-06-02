@@ -1,4 +1,4 @@
-#### 🌐 Feel free to contact me:
+#### 🌐 Feel free to contact me
 ### [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erkam-minsin/) &nbsp;Faik Erkam Minsin
 
 
@@ -46,7 +46,7 @@
 🛵 Invested in theory first<br>
 🏎 Producing it all now<br><br>
 
-<strong>📌 My Education:</strong><br><br>
+<strong>📌 My Education</strong><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
 🔆 Galatasaray University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, MSc | French |<br>
 🔆 Linnaeus University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc | Scandinavian |<br>
@@ -54,7 +54,7 @@
 
 
 
-<strong>📌 My Career Journey:</strong><br>
+<strong>📌 My Career Journey</strong><br>
 ```mermaid
 graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
@@ -82,7 +82,7 @@ graph LR
 
 
 
-<strong>📌 Learning Library:</strong><br><br>
+<strong>📌 Learning Library</strong><br><br>
 <img width="60" height="100" alt="Book-cover-Introduction-to-Operations-Research" src="https://github.com/user-attachments/assets/be75da48-31d8-4312-b006-00559363f945" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60" height="100" alt="Book-cover-Convex-Optimization" src="https://github.com/user-attachments/assets/e73f537e-31af-4d3c-80ae-a48e491ef931" />
@@ -126,7 +126,7 @@ graph LR
 
 
 
-<strong>📌 Production Shelf:</strong><br><br>
+<strong>📌 Production Shelf</strong><br><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
@@ -134,8 +134,8 @@ graph LR
 | Math Skills | Project | Tech Skills |
 |:-----|:---------------|:-------|
 |  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![DataAnalysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br>![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
-|     Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance<br>      |     [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations-of-Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)            |            |
-|     3|                |  |
+|     Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance<br>      |     [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations-of-Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Using%20R%20for%20Introductory%20Statistics-E22BBE)            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)         |
+|   Numerical Computation<br>Descriptive Statistics<br>Statistical Visualization and Interpretation<br>Parametric and Non-parametric Statistical Testing<br>Regression and Linear Modeling  |    [![DannyArends](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/R-for-Data-Analysis)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)     |
 |     3|                |  |
 |     3|                |  |
 |     3|                |  |
