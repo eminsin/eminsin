@@ -1,5 +1,5 @@
-### 🌐 Feel free to contact me:
-### [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkam-minsin/) &nbsp;Faik Erkam Minsin
+#### 🌐 Feel free to contact me:
+### [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erkam-minsin/) &nbsp;Faik Erkam Minsin
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-### 💻 Technical Skills
+#### 💻 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
