@@ -133,16 +133,16 @@ graph LR
 
 | Math Skills | Project | Tech Skills |
 |:-----|:---------------|:-------|
-|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![DataAnalysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br>![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
-|     Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance<br>      |     [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations-of-Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Using%20R%20for%20Introductory%20Statistics-E22BBE)            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)         |
-|   Numerical Computation<br>Descriptive Statistics<br>Statistical Visualization and Interpretation<br>Parametric and Non-parametric Statistical Testing<br>Regression and Linear Modeling  |    [![DannyArends](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/R-for-Data-Analysis)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)     |
-|     3|                |  |
-|     3|                |  |
-|     3|                |  |
-|     3|                |  |
-|     3|                |  |
-|     3|                |  |
-|     3|                |  |
+|  Descriptive Statistics<br>Basic Probability<br>Linear Algebra |      [![DataAnalysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br>![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)<br>![source](https://img.shields.io/badge/Source:-E22BBE) ![youtube](https://img.shields.io/badge/-youtube-05122A?style=flat-square&logo=youtube&color=red)       |    ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535)    |
+|     Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance      |     [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations_of_Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>![source](https://img.shields.io/badge/Source:-E22BBE) ![book](https://img.shields.io/badge/Using%20R%20for%20Introductory%20Statistics-E22BBE)            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)         |
+|   Numerical Computation<br>Descriptive Statistics<br>Statistical Visualization and Interpretation<br>Parametric Statistical Testing<br>Non-parametric Statistical Testing<br>Regression and Linear Modeling  |    [![DannyArends](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/R_for_Data_Analysis)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>![source](https://img.shields.io/badge/Source:-E22BBE) ![youtube](https://img.shields.io/badge/-youtube-05122A?style=flat-square&logo=youtube&color=red)            |    ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)     |
+|      |   [![RegAnaCoursePoject](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Price_Prediction_with_Regression_Analysis)<br>![RegAnaCourseProject](https://img.shields.io/badge/Price%20Prediction%20with%20Regression%20Analysis-8A2BE2)<br>![source](https://img.shields.io/badge/Source:-E22BBE) ![book](https://img.shields.io/badge/Regression:%20%20Models,%20Methods%20and%20Applications-E22BBE)             |        |
+|     3|                |        |
+|     3|                |        |
+|     3|                |        |
+|     3|                |        |
+|     3|                |        |
+|     3|                |        |
 
 
 
