@@ -8,20 +8,25 @@
 
 
 #### 💻 Technical Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=Matplotlib&logoColor=black)<br>
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=ffdd54)<br>
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
+![CRAN](https://img.shields.io/badge/CRAN-276DC3?style=flat-square&logo=r&logoColor=white)<br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)<br>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=flat-square&logo=tableau&logoColor=white)
+
 
 <!--  -->
 <!--  -->
@@ -136,7 +141,7 @@ graph LR
 | Descriptive Statistics<br>Basic Probability<br>Linear Algebra | [![DataAnalysis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Portfolio_DataAnalysis)<br>![data analysis](https://img.shields.io/badge/data%20analysis-8A2BE2)<br>[![youtube](https://img.shields.io/badge/-youtube-05122A?style=flat-square&logo=youtube&color=red)](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) | ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![MicrosoftSQLServer](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat-square&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&color=353535) ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535) |
 | Distribution Types<br>Central Limit Theorem<br>Bootstraping<br>Confidence Intervals<br>Significance Tests<br>Goodness of Fit<br>Linear Regression<br>Analysis of Variance | [![FoS](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Foundations_of_Statistics)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Using%20R%20for%20Introductory%20Statistics-E22BBE) | ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535) |
 |   Numerical Computation<br>Descriptive Statistics<br>Statistical Visualization and Interpretation<br>Parametric Statistical Testing<br>Non-parametric Statistical Testing<br>Regression and Linear Modeling  |    [![DannyArends](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/R_for_Data_Analysis)<br>![fos](https://img.shields.io/badge/foundations%20of%20statistics-8A2BE2)<br>[![youtube](https://img.shields.io/badge/-youtube-05122A?style=flat-square&logo=youtube&color=red)](https://www.youtube.com/watch?v=fxmF4P_O_2c&list=PLhR2Go-lh6X6ZJnN4WQScB4qjO4GYTO0S) | ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535) |
-| Multiple Linear Regression<br>OLS Estimation<br>Hypothesis Testing: F-test<br>Model Selection: R-squared, Leave-one-out Cross Validation, AIC, BIC<br>Model Diagnosis: Linearity, Homoscedasticity, VIF,<br>Influence Analysis - Outliers, Leverage, Cook's Distance,<br>Heteroscedastic Errors - Breusch-Pagan Test, Two-Stage Least Squares, White-Estimators<br>Price Prediction | [![RegAnaCoursePoject](https://img.shields.io/badge/github-repo_with_python-blue?logo=github)](https://github.com/eminsin/Price_Prediction_with_Regression_Analysis)<br>![RegAnaCourseProject](https://img.shields.io/badge/Price%20Prediction%20with%20Regression%20Analysis-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Regression%20Models,%20Methods%20and%20Applications-E22BBE) | ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535) ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535) |
+| Multiple Linear Regression<br>OLS Estimation<br>Hypothesis Testing: F-test<br>Model Selection: R-squared, Leave-one-out Cross Validation, AIC, BIC<br>Model Diagnosis: Linearity, Homoscedasticity, VIF,<br>Influence Analysis - Outliers, Leverage, Cook's Distance,<br>Heteroscedastic Errors - Breusch-Pagan Test, Two-Stage Least Squares, White-Estimators | [![RegAnaCoursePoject](https://img.shields.io/badge/github-repo_with_python-blue?logo=github)](https://github.com/eminsin/Price_Prediction_with_Regression_Analysis)<br>![RegAnaCourseProject](https://img.shields.io/badge/Price%20Prediction%20with%20Regression%20Analysis-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Regression%20Models,%20Methods%20and%20Applications-E22BBE) | ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535)![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat-square&logo=Jupyter&color=353535)![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat-square&logo=pandas&color=353535)![numpy](https://img.shields.io/badge/-numpy-05122A?style=flat-square&logo=numpy&color=353535)![scipy](https://img.shields.io/badge/-scipy-05122A?style=flat-square&logo=scipy&color=353535)![scikitlearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat-square&logo=scikitlearn&color=353535)![statsmodels](https://img.shields.io/badge/-statsmodels-05122A?style=flat-square&logo=statsmodels&color=353535)![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat-square&logo=matplotlib&color=353535)![seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat-square&logo=seaborn&color=353535)<br><br>![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat-square&logo=rstudioide&color=353535) |
 |     3|                |        |
 |     3|                |        |
 |     3|                |        |
