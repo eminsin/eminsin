@@ -132,7 +132,7 @@ graph LR
 
 
 
-<strong>📌 Production Shelf</strong><br><br>
+<strong>📌 Products Shelves</strong><br><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
