@@ -40,14 +40,14 @@
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 27%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 30%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
 🦾 Raised in working-class<br>
 🤺 Fought for my own path<br>
 🆔 Traveled Europe and studied different teaching approaches<br>
-🏄‍♂️ Value diversity<br>
 🦉 Love to read and talk about social psychology, antropology and history<br>
+🏳️‍🌈 Value diversity<br>
 📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
 🛵 Invested in theory first<br>
 🏎 Producing it all now<br><br>
