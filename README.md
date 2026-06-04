@@ -47,7 +47,7 @@
 🤺 Fought for my own path<br>
 🆔 Traveled Europe and studied different teaching approaches<br>
 🦉 Love to read and talk about social psychology, antropology and history<br>
-🏳️‍🌈 Value diversity<br>
+🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br>
 📍 Chasing my dreams in <strong>Berlin, Germany</strong><br>
 🛵 Invested in theory first<br>
 🏎 Producing it all now<br><br>
