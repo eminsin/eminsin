@@ -76,7 +76,7 @@ graph LR
     H --> I["Causal Inference, Bayesian Inference, Stochastic Processes, Markov Models,  MDP"];
     I --> O["Health Economics Modelling, Cost-Effectiveness Analysis: Optimal Timing of Insulin Initiation for T2D"];
     O --> N["Health Economics and Outcomes Research"];
-    O --> T["2-year research experience at Koc University - Prof.Dr. Evrim Didem Gunes's Healthcare Operations Lab"];
+    O --> T["2-year research experience at Koc University - Healthcare Operations Lab"];
     N --> J["How can I cultivate my skills required for data‑driven (HEOR) modeling and automated (medical) decision‑making?"];
     T --> J;
     J -- Trailer 2 was released --> K["Data Science, MSc"];
