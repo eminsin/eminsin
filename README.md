@@ -132,7 +132,7 @@ graph LR
 
 
 
-<strong>📌 Products Shelves</strong><br><br>
+<strong>📌 Production Shelves</strong><br><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
 🧭 Bayesian Inference, Stochastic Processes, Markov Decision Process, HEOR<br><br>
 
@@ -158,7 +158,7 @@ graph LR
 
 <!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
-🔭 I’m currently working on CONSTRUCTING MY GITHUB PROFILE NEW<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on CONSTRUCTING MY GITHUB PROFILE NEW<br>👯 I’m looking to collaborate on HEOR/RWE + DATA SCIENCE SOLUTIONS<br>🤝 I’m looking for help with FINDING SHORT-MID TERM INTERNSHIP IN DATA SCIENCE IN HEOR/RWE<br>🌱 I’m currently REPEATING MY COURSES AND PRACTICING MY PROGRAMMING SKILLS, PARTICULARLY IN R  <br>
 
 </div>
 
