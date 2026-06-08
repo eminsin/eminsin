@@ -16,7 +16,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=ffdd54)<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=ffdd54)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=ffdd54)<br>
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
 ![CRAN](https://img.shields.io/badge/CRAN-276DC3?style=flat-square&logo=r&logoColor=white)<br>
@@ -158,7 +159,7 @@ graph LR
 
 <!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
-🔭 I’m currently working on CONSTRUCTING MY GITHUB PROFILE NEW<br>👯 I’m looking to collaborate on HEOR/RWE + DATA SCIENCE SOLUTIONS<br>🤝 I’m looking for help with FINDING SHORT-MID TERM INTERNSHIP IN DATA SCIENCE IN HEOR/RWE<br>🌱 I’m currently REPEATING MY COURSES AND PRACTICING MY PROGRAMMING SKILLS, PARTICULARLY IN R  <br>
+🔭 I’m currently working on **_reconstructing my profile._**<br>👯 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🤝 I’m looking for help with **_finding short-mid term internship or entry level positions in data science applications in HEOR/RWE._**<br>🌱 I’m currently **_repeating my data science courses and practicing my programming skills._**<br>
 
 </div>
 
