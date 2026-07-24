@@ -41,7 +41,7 @@
 
 <div>
    <img alt="Shows an integrated evidence ecosystem of heor, rwe and data science" src="https://github.com/user-attachments/assets/ce1bf3d2-c81b-48e2-9a2f-833f5078e09b"
-     style="width: 30%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
+     style="width: 18%; min-width: 150px; padding: 20px; margin-right: 20px; border-radius: 50%;" align="left" />
  <div style="display: inline-block; min-width: 300px; max-width: 600px; text-align: left;">
 
 🦾 Raised in working-class<br>
@@ -49,16 +49,13 @@
 🆔 Traveled Europe and studied different teaching approaches<br>
 🦉 Love to read and talk about social psychology, antropology and history<br>
 🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br>
-📍 Chasing my dreams in <strong>Berlin</strong>, and also open to work remote<br>
-🛵 Invested in theory first<br>
-🏎 Producing it all now<br><br>
+
 
 <strong>📌 My Education</strong><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
 🔆 Galatasaray University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, MSc | French |<br>
 🔆 Linnaeus University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc - exchange year | Scandinavian |<br>
 🔆 Fatih University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc | Turkish & American |<br><br>
-
 
 
 <strong>📌 My Career Journey</strong><br>
@@ -146,9 +143,9 @@ graph LR
 | Multiple Linear Regression<br>OLS Estimation<br>Hypothesis Testing: F-test<br>_Model Selection_: R-squared, Leave-one-out Cross Validation, AIC, BIC<br>_Model Diagnosis_: Linearity, Homoscedasticity, VIF,<br>Influence Analysis - Outliers, Leverage, Cook's Distance,<br>Heteroscedastic Errors - Breusch-Pagan Test, Two-Stage Least Squares, White-Estimators | [![RegAnaCoursePoject](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Price_Prediction_with_Regression_Analysis)<br>![RegAnaCourseProject](https://img.shields.io/badge/regression%20analysis-8A2BE2)<br>![book](https://img.shields.io/badge/Book:%20Regression%20Models,%20Methods%20and%20Applications-E22BBE) | ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535)![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat-square&logo=Jupyter&color=353535)![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat-square&logo=pandas&color=353535)![numpy](https://img.shields.io/badge/-numpy-05122A?style=flat-square&logo=numpy&color=353535)![scipy](https://img.shields.io/badge/-scipy-05122A?style=flat-square&logo=scipy&color=353535)![scikitlearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat-square&logo=scikitlearn&color=353535)![statsmodels](https://img.shields.io/badge/-statsmodels-05122A?style=flat-square&logo=statsmodels&color=353535)![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat-square&logo=python&color=353535)![seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat-square&logo=python&color=353535)<br><br>![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r&color=353535)![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat-square&logo=rstudioide&color=353535) |
 | Disease Modeling and Health Economic Methods<br>Risk and Outcome Modeling<br>Decision Analytics<br>Economic Evaluation Foundations<br>Longitudinal Data Analytics<br>Statistical Modeling<br>Monte Carlo Simulation<br>Dynamic Linear Models (DLMs)<br>Multivariate Risk-factor Simulation<br>Evidence Generation<br>Predictive Analytics<br>Probability & Stochastic Processes<br>Statistical Inference<br>Survival and Risk Analysis | [![DSThesis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Dynamic_Risk_Projection_in_Type2_Diabetes_A_Cohort-Based_Simulation)<br>![DSThesis](https://img.shields.io/badge/a%20cohort%20based%20simulation-8A2BE2)<br>[![article1](https://img.shields.io/badge/article1-E22BBE)](https://doi.org/10.1111/dme.14656) [![article2](https://img.shields.io/badge/article2-E22BBE)](https://doi.org/10.2337/diab.44.8.968) [![article3](https://img.shields.io/badge/article3-E22BBE)](https://doi.org/10.2307/2532098) [![article4](https://img.shields.io/badge/article4-E22BBE)](https://doi.org/10.1001/jamainternmed.2014.2894) | ![python](https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python&color=353535)![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat-square&logo=Jupyter&color=353535)![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat-square&logo=pandas&color=353535)![numpy](https://img.shields.io/badge/-numpy-05122A?style=flat-square&logo=numpy&color=353535)![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat-square&logo=python&color=353535)![seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat-square&logo=python&color=353535) |
 | Markov Decision Process<br>Dynamic Programming<br>Matrix-based Cohort Simulation<br>Policy Evaluation<br>Sensitivity Analysis Design<br> Cost-utility Modeling | [![IEThesis](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/eminsin/Insulin_Initiation_with_MDP_A_Cost_Utility_Analysis)<br>![IEThesis](https://img.shields.io/badge/cost%20utility%20analysis-8A2BE2)<br>![IEThesis](https://img.shields.io/badge/decision%20under%20uncertainity-8A2BE2)<br>[![IEEE](https://img.shields.io/badge/document-E22BBE)](https://ieeexplore.ieee.org/document/9270187) | ![matlab](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&color=353535) ![MS Excel](https://img.shields.io/badge/-MS%20Excel-05122A?style=flat-square&color=353535) |
-|     1|                |        |
-|     2|                |        |
-|     3|                |        |
+|     |                |        |
+|     |                |        |
+|     |                |        |
 
 
 
@@ -156,9 +153,8 @@ graph LR
 
 
 
-<!-- I love to play with numbers with a focus on their real-world impact - analyzing patterns, modeling outcomes, and generating insights that support better decisions in health and business. -->
 
-🔭 I’m currently working on **_reconstructing my profile._**<br>👯 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🤝 I’m looking for help with **_finding short-mid term internship or entry level positions in data science applications in HEOR/RWE._**<br>🌱 I’m currently **_repeating my data science courses and practicing my programming skills._**<br>
+🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**<br>
 
 </div>
 
