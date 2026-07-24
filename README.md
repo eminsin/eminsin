@@ -51,14 +51,17 @@
 🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br>
 
 
-<strong>📌 My Education</strong><br><br>
+<details>
+<summary><strong>📌 My Education</strong></summary><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
 🔆 Galatasaray University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, MSc | French |<br>
 🔆 Linnaeus University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc - exchange year | Scandinavian |<br>
 🔆 Fatih University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc | Turkish & American |<br><br>
+</details>
 
 
-<strong>📌 My Career Journey</strong><br>
+<details>
+<summary><strong>📌 My Career Journey</strong></summary><br>
 ```mermaid
 graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
@@ -83,7 +86,7 @@ graph LR
     K --> P;
     R --> K;
 ```
-
+</details>
 
 
 <strong>📌 Learning Library</strong><br><br>
