@@ -91,7 +91,7 @@ graph LR
 ```
 </details>
 
-<br>
+
 <strong>📌 Learning Library</strong><br><br>
 <img width="60" height="100" alt="Book-cover-Introduction-to-Operations-Research" src="https://github.com/user-attachments/assets/be75da48-31d8-4312-b006-00559363f945" />
 &nbsp;&nbsp;&nbsp;&nbsp;
