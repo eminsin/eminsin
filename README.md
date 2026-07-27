@@ -63,7 +63,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><strong>📌 My Career Journey</strong></summary><br>
 ```mermaid
 graph LR
