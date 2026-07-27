@@ -53,6 +53,9 @@
 
 🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**<br><br>
 
+</div>
+
+
 
 <details>
 <summary><strong>📌 My Education</strong></summary><br><br>
@@ -63,7 +66,7 @@
 </details>
 
 
-<details open>
+
 <summary><strong>📌 My Career Journey</strong></summary><br>
 ```mermaid
 graph LR
@@ -89,7 +92,7 @@ graph LR
     K --> P;
     R --> K;
 ```
-</details>
+
 
 
 <strong>📌 Learning Library</strong><br><br>
@@ -155,14 +158,10 @@ graph LR
 
 
 
-<br>
 
 
 
 
-
-
-</div>
 
 
 
