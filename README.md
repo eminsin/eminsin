@@ -48,17 +48,21 @@
 🤺 Fought for my own path<br>
 🆔 Traveled Europe and studied different teaching approaches<br>
 🦉 Love to read and talk about social psychology, antropology and history<br>
-🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br>
+🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br><br>
 
 
-🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**<br><br>
+🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**
+
+
 
 </div>
 
 
+---
 
-<details>
-<summary><strong>📌 My Education</strong></summary><br><br>
+
+<details open>
+<summary><strong>📌 My Career Journey</strong></summary><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
 🔆 Galatasaray University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, MSc | French |<br>
 🔆 Linnaeus University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Industrial Engineering, BSc - exchange year | Scandinavian |<br>
@@ -66,8 +70,6 @@
 </details>
 
 
-
-<summary><strong>📌 My Career Journey</strong></summary><br>
 ```mermaid
 graph LR
     A["Engineers make things. Industrial engineers make things better."] --> B["IE, BSc"];
@@ -94,8 +96,11 @@ graph LR
 ```
 
 
+---
+
 
 <strong>📌 Learning Library</strong><br><br>
+
 <img width="60" height="100" alt="Book-cover-Introduction-to-Operations-Research" src="https://github.com/user-attachments/assets/be75da48-31d8-4312-b006-00559363f945" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60" height="100" alt="Book-cover-Convex-Optimization" src="https://github.com/user-attachments/assets/e73f537e-31af-4d3c-80ae-a48e491ef931" />
@@ -138,6 +143,8 @@ graph LR
 <br><br>
 
 
+---
+
 
 <strong>📌 Production Shelves</strong><br><br>
 🧭 Advanced Statistics, ML, DL, NLP, AI, Real-World Evaluation<br>
@@ -155,8 +162,6 @@ graph LR
 |     |                |        |
 |     |                |        |
 |     |                |        |
-
-
 
 
 
