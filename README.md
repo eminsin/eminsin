@@ -51,7 +51,7 @@
 🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br><br>
 
 
-🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**
+🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m in parallel **_repeating my courses and practicing my programming skills._**
 
 
 
