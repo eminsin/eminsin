@@ -51,6 +51,9 @@
 🏳️‍🌈 Thrive in diversity where people can bring their full, authentic selves<br>
 
 
+🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**<br><br>
+
+
 <details>
 <summary><strong>📌 My Education</strong></summary><br><br>
 🔆 Bielefeld University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Data Science, MSc | German School of Thought |<br>
@@ -88,7 +91,7 @@ graph LR
 ```
 </details>
 
-
+<br>
 <strong>📌 Learning Library</strong><br><br>
 <img width="60" height="100" alt="Book-cover-Introduction-to-Operations-Research" src="https://github.com/user-attachments/assets/be75da48-31d8-4312-b006-00559363f945" />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -157,7 +160,7 @@ graph LR
 
 
 
-🔭 I’m currently working on **_adding my projects in my profile._**<br>🤝 I’m looking to collaborate on **_HEOR/RWE + data science solutions._**<br>🌱 I’m parallelly **_repeating my courses and practicing my programming skills._**<br>
+
 
 </div>
 
