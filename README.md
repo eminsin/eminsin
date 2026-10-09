@@ -90,7 +90,7 @@ graph LR
     T --> J;
     J -- Trailer 2 was released --> K["Data Science, MSc"];
     K --> L["Welcome to my GitHub profile"];
-    N --> P["🎬 Movie is out soon: Blueprints to Algorithms"];
+    N --> P["🎬 Movie is out soon: from Predictions to Decisions"];
     K --> P;
     R --> K;
 ```
